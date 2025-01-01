@@ -82,7 +82,7 @@ Shortify is a simple and efficient web application that allows users to shorten 
 
   ```bash
   php artisan serve
-    ```
+  ```
 
 11. Your application should now be accessible at `http://localhost:8000`.
 
